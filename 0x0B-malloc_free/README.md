@@ -10,6 +10,6 @@ This is a file that contains the description about the projects inside this dire
 
 4-free_grid frees a 2 dimensional grid previously created by our alloc_grid function
 
-5-argstostr concatenates all arguments of our program.
+100-argstostr concatenates all arguments of our program.
 
 main.h is a header file that contains all the function prototypes.
