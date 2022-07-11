@@ -4,8 +4,6 @@
 
 ## Directorys
 1.**[0x00-hello_world](0x00-hello_world)**
-  * [0-Preprocessor](0x00-hello_world/0-preprocessor)
-  * [1-compiler](0x00-hello_world/1-compiler)
 
 2.**[0x01-varibales_if_else_while](0x01-variables_if_else_while)**
 
